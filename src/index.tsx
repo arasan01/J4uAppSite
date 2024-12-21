@@ -8,7 +8,7 @@ app.use(renderer)
 app.get('/', (c) => {
   return c.render(
     <>
-      <h1>Hello!</h1>
+      <h1>J4uApp</h1>
       <div>
         <a href="https://dist.j4uapp.com/appcast.xml">App RSS</a>
         <br />
