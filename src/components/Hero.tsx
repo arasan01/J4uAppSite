@@ -2,13 +2,12 @@ export function Hero() {
   return (
     <div className="text-center mt-32 mb-16">
       <h1 className="text-6xl font-bold text-black mb-6 leading-tight">
-        Instant Translation
+        Cross Culture Communication Assistant
         <br />
-        with a Screenshot
+        with a Screen Capture
       </h1>
       <p className="text-black/80 text-xl mb-12 max-w-2xl mx-auto">
-        The most intuitive translation app for your Mac.
-        Designed for seamless integration with your workflow.
+        J4uApp is a native macOS app that lets you translate any text on your screen with a single click. Perfect for cross-cultural communication and language learning.
       </p>
       <div className="flex flex-col items-center space-y-4">
         <a
